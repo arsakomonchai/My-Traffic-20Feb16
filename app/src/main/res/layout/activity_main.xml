@@ -36,4 +36,5 @@
         android:layout_below="@+id/textView"
         android:layout_above="@+id/button"
         android:background="#82ffffff" />
+
 </RelativeLayout>
